@@ -5,3 +5,10 @@ data/processed
 
 logs
 predictions
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
